@@ -8,3 +8,13 @@
         <br><br>
     </div>
 </p>
+
+## About Nodelex
+
+Nodelex is an ambitious project dedicated to creating a multiplayer SCP game using Unreal Engine. Our goal is to deliver an immersive and thrilling experience for players who love the SCP universe.
+
+This project is **not open-source**, but if you want to support us, you can donate to help speed up the development process. Every contribution brings us closer to making this game a reality!
+
+Stay tuned for updates and join our community on Discord to follow our progress!
+
+---
