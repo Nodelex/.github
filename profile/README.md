@@ -5,7 +5,7 @@
     
 <strong>Website: <a href='https://nodelex.xyz/'>https://Nodelex.xyz/</a></strong>
 <br><br>
-<strong>Discord Server: <a href='https://discord.gg/RGFxb4vs3a'>https://discord.gg/RGFxb4vs3a</a></strong>
+<strong>Discord Server: <a href='https://discord.gg/M6V2t9p9Gf'>https://discord.gg/M6V2t9p9Gf</a></strong>
 <br><br>
 <strong>Ko-Fi: <a href='https://ko-fi.com/nodelex/'>https://ko-fi.com/nodelex/</a></strong>
 <br><br>
